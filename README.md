@@ -1,0 +1,2 @@
+# Self-Driving Agent on the video game of Torcs
+Here, I have implemented a self-driving agent in the video game called TORCS with Behavioral Cloning. In essence, the behavioral cloning agent, as the name would suggest, is supposed to imitate the driving behavior of a human expert by making sense of his own driving experiences collected from the environment.
